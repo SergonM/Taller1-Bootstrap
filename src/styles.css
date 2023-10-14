@@ -33,13 +33,20 @@ li{
     flex-direction: column;
 }
 
+.cont-img button{
+    position: relative;
+    bottom: 0;
+}
+
 .cont-planes{
     flex-direction: column;
     align-items:center;
 }
 
+
 #cont-isla{
     align-items: start;
 }
+
 
 
