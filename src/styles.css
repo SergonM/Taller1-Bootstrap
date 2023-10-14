@@ -31,12 +31,10 @@ li{
     display: flex;
     align-items: center;
     flex-direction: column;
+    justify-content: space-between;
 }
 
-.cont-img button{
-    position: relative;
-    bottom: 0;
-}
+
 
 .cont-planes{
     flex-direction: column;
