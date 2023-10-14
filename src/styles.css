@@ -17,6 +17,8 @@ li{
     list-style-position: inside;
 }
 
+
+
 .container{
     display: flex;
     align-items: center;
@@ -28,11 +30,12 @@ li{
 .cont-img{
     display: flex;
     align-items: center;
-    justify-content: center;
+    flex-direction: column;
 }
 
 .cont-planes{
     flex-direction: column;
+    align-items:center;
 }
 
 #cont-isla{
